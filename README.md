@@ -26,5 +26,5 @@ The picture I took is a freeze frame from a video of the game in "auto-play" mod
 * Game continues play faster when bricks are clear: (10) ____
 * Game plays demo mode after delay: (30) ____
 * Game lives operate correctly: (10) ____
-* Total = ______ / 200
+* Total = ______ / 200\
 *****************************************************************/
