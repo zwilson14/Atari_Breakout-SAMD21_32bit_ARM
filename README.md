@@ -1,6 +1,6 @@
 # ENGE320-Program10
 Atari Breakout by Zach Wilson on 12/6/2016 for ENGE320\
-I only added the relevant .c and .h files for this project\
+I only added the relevant .c and .h files for this project
 
 The picture I took is a freeze frame from a video of the game in "auto-play" mode, where the paddle is predicting the next loaction of the ball and moving towards it. The ball looks strange only because it is in the process of being re-drawn (Where the prior position pixels of the ball would be erased).
 
