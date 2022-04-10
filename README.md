@@ -21,7 +21,7 @@ The picture I took is a freeze frame from a video of the game in "auto-play" mod
 * Ball only erases one brick for each hit: (10) ____
 * Paddle moves correctly in horizontal: (10) ____
 * Paddle moves correctly in vertical: (10) ____
-* Sounds are emitted at the appropriate time and don�t affect game play: (20) ____
+* Sounds are emitted at the appropriate time and don't affect game play: (20) ____
 * Sounds are varied for different elements: (10) ____
 * Game continues play faster when bricks are clear: (10) ____
 * Game plays demo mode after delay: (30) ____
