@@ -7,7 +7,7 @@ SPI to AMOLED, ADC input configuration, button de-bounce, PWM, Utilized datashee
 
 The picture I took is a freeze frame from a video of the game in "auto-play" mode, where the paddle is predicting the next location of the ball and moving towards it. The ball looks strange only because it is in the process of being re-drawn (Where the prior position pixels of the ball would be erased).
 
-![Project Icon](assets/Atari_Breakout.jpg)
+![Project Icon](Atari_Breakout.jpg)
 
 
 # Program information and Objectives below:
