@@ -9,6 +9,7 @@ The picture I took is a freeze frame from a video of the game in "auto-play" mod
 
 ![Project Icon](assets/Atari_Breakout.jpg)
 
+
 # Program information and Objectives below:
 /*****************************************************************
 * Name        : <Zach Wilson>
